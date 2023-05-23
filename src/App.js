@@ -3,12 +3,7 @@ import "./App.css";
 import { AppContext } from "./context/contextApi";
 import Feed from "./components/Feed";
 import Headers from "./components/Headers";
-import LeftNav from "./components/LeftNav";
-import LeftNewMenuItems from "./components/LeftNewMenuItems";
 import SearchResult from "./components/SearchResult";
-import SearchResultVideoCard from "./components/SearchResultVideoCard";
-import SuggestionVideoCard from "./components/SuggestionVideoCard";
-import VideoCard from "./components/VideoCard";
 import VideoDetails from "./components/VideoDetails";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
